@@ -2,7 +2,7 @@
 Alfredo Alexis González Ordóñez
 
 
-![](https://github.com/alfrexis/disruptivas/blob/master/alexis_gonzalez_2014.jpg)
+![](https://github.com/alfrexis/disruptivas/blob/master/1.jpg)
 
 ####Telefono Movil				3113288629
 ####e-mail				alfrexisgo@gmail.com  - alfrexis@hotmail.com
