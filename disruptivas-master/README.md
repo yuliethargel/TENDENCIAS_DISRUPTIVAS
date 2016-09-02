@@ -4,8 +4,8 @@ Yulieth Paola Argel Martínez
 
 ![](https://github.com/yuliethargel/TENDENCIAS_DISRUPTIVAS/blob/master/disruptivas-master/1.jpg)
 
-####Telefono Movil				3113288629
-####e-mail				alfrexisgo@gmail.com  - alfrexis@hotmail.com
+####Telefono Movil				3215052211
+####e-mail				yargelm2015@gmail.com  - licyuliethargel@hotmail.com
 
 ##Perfil Profesional
 
