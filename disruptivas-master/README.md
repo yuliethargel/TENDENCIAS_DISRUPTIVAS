@@ -82,7 +82,7 @@ El objetivo del proyecto es: Fortalecimiento de la cultura ciudadana y democrát
 Es una labor bastante enriquecedora, puesto que brinda la posibilidad de motivar a los chicos a empezar a ver la investigación como algo cotidiano y me da la oportunidad de ampliar mis conomientos en el área.
 
 #### Universidad de Córdoba (2012 - 2014) Profesional Administrativo
-En este lapso de tiempo trabaje en varios contratos con la universdidad desarrollando la misma actividad laboral.
+En este lapso de tiempo trabaje en varios contratos con la universidad desarrollando la misma actividad laboral.
 Me desempeñe en el soporte Soporte técnico, acompañamiento en entorno Virtuales de Aprendizaje con perfil desde el área de diseño gráfico hasta la formación a docentes y estudiantes universitarios en manejo de Ambiente Virtual de Aprendizaje en los programas de Educación a Distancia de la Universidad de Córdoba.  Asesoría online y personalizada en en Manejo de la plataforma MOODLE a docentes y estudiantes. 
 Participé en la formación en Tics y aplicaciones de la web 2.0 como elementos dinamizadores para los procesos de enseñanza-aprendizaje dentro del Aula Virtual de Aprendizaje.
 
