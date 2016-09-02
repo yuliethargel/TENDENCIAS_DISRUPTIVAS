@@ -31,7 +31,7 @@ Soy una persona proactiva, dinámica y me gusta trabajar en equipo.
 - Edición de Video y Sonido (Adobe Premiere, CSS5)
 - Ofimática (Microsoft Office,  OpenOffice)
 
-## Areas de Interes
+## Áreas de Interés
 
 - Ambientes Virtuales de Aprendizaje
 - Realidad Virtual y Aumentada
@@ -45,7 +45,7 @@ Soy una persona proactiva, dinámica y me gusta trabajar en equipo.
 -	Responsabilidad y proactividad.
 -	Poder influir en la mejora de los procesos de enseñanza-aprendizaje en apropiación y manejo de Tics e investigación en mi región. 
 
-##Experiencia Academica e Investigativa
+##Experiencia Académica e Investigativa
 
 Tesis meritoria, MODELADO DEL ALUMNO EN JUEGOS EDUCATIVO GESTIONADOS CON AGENTES SOFTWARE  (JuEGAS) MULTIfUNCIONALES, EL CASO JuEGAS_ProVEAS. 2009
 
