@@ -1,6 +1,6 @@
 # Curriculum Vitae
 Yulieth Paola Argel Martínez
-
+backgroundColor 
 
 ![](https://github.com/yuliethargel/TENDENCIAS_DISRUPTIVAS/blob/master/disruptivas-master/1.jpg)
 
@@ -9,7 +9,7 @@ Yulieth Paola Argel Martínez
 
 ##Perfil Profesional
 
-Ingeniero de Sistemas y Computación con conocimientos en implementaciones de software para la Internet y el circulo corporativo de sistemas, administración de bases de datos, conocimientos en manejo y control de proyectos de Tecnología Informática e Ingeniería de Software, entornos virtuales, comunicación de datos y seguridad informática. 
+Licenciada en Informática y Medios Audiovisuales de la Universidad de Córdoba; Diplomado en 
 
 Participo de manera activa en desarrollo de funciones en grupo, con gran motivación hacia los proyectos que involucren tecnología en el campo de la informática y la ciencia de la computación. 
 
