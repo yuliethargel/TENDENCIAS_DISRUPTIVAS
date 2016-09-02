@@ -6,93 +6,74 @@ Yulieth Paola Argel Martínez
 
 ####Telefono Movil				3215052211
 ####e-mail				yargelm2015@gmail.com  - licyuliethargel@hotmail.com
+####skipe licyuliethargel@hotmail.com
 
 ##Perfil Profesional
 
-Licenciada en Informática y Medios Audiovisuales de la Universidad de Córdoba; Diplomado en 
+Licenciada en Informática y Medios Audiovisuales de la Universidad de Córdoba con Diplomado en Tutor Educación a Distancia.
+Puedo desempeñar labores en el perfil de docente en el área de Informática (Informática básica, informática avanzada, el diseño de ambientes y materiales mediados por herramientas computacionales y audiovisuales.) 
 
-Participo de manera activa en desarrollo de funciones en grupo, con gran motivación hacia los proyectos que involucren tecnología en el campo de la informática y la ciencia de la computación. 
+Ademas puedo desarrollar actividades de investigación y formación en proyectos de investigación en el área de las tecnologías de la información y comunicación aplicadas a la educación hacia una cultura organizacional, productividad del trabajo académico en pro de la formación en tecnología aplicada a la educación.
 
-Poseo buena habilidad para el aprendizaje de nuevas actividades productivas en el campo de trabajo.
+Poseo habilidades para la formación y asesoría en el uso de  la informática y medios audiovisuales en educación;  y en él uso e implementación de aplicaciones de la Web 2.0. 
 
-Tengo excelente disposición a aportar favorablemente al desarrollo de los buenos proyectos con mis conocimientos.
-
+Soy una persona proactiva, dinámica y me gusta trabajar en equipo. 
 
 ####Formación Académica	
 
-•	Ingeniería de Sistemas y Computación, Pontificia Universidad Javeriana. Cali - Colombia.
+•	Licenciada en Informática, Universidad de Córdoba. Montería - Córdoba.
+•	Diplomado Tutor Educación a Distancia y Virtual, Vicerrectoría Académica_Universidad de Córdoba. Montería - Córdoba.
 
-## Habilidades Técnicas
+###### Habilidades Técnicas
 
-- Programación (Java, C++, VBasic, Phyton)
-- Desarrollo Web (ASP.NET, ADO, Php, Html5, Javascript, Xml ,CSS5)
 - Diseño Gráfico (CorelDraw, Adobe Creative Suite)
-- Administración de Proyectos (IT/SI , Scrum)
-- Redes y Comunicación de Datos (LAN, Wireless Technologies)
-- Seguridad Informática (Monitoreo de seguridad, Políticas y Administración)
-- Bases de Datos (MySQL, POSTGRESS, ORACLE, MS Access)
-- Hardware (Configuración y Mantenimiento SO Windows - Linux)
-- Realidad Virtual (VRML, OpenGL, WebGL, Blender, 3dMax)
-- Edición de Video y Sonido (Adobe Premiere, SoundBooth CSS5)
-- Ofimática (Microsoft Office, Lotus, OpenOffice)
+- Bases de Datos (MySQL)
+- Hardware (Configuración y Mantenimiento SO Windows)
+- Edición de Video y Sonido (Adobe Premiere, CSS5)
+- Ofimática (Microsoft Office,  OpenOffice)
 
 ## Areas de Interes
 
-- Desarrollo e implementación de aplicaciones para Internet y sistemas abiertos.
-- Interfaces Humano-Computador
-- Ambientes Educativos Colaborativos
+- Ambientes Virtuales de Aprendizaje
 - Realidad Virtual y Aumentada
-- Diseño de Sistemas de Información
-- Software Libre
-- Seguridad Informática (Computación Fiable)
 - Producción Audiovisual
-- Comunicación Social y Multimedios
-- Permacultura
+- Tecnologias de la Informácion y Comunicación Aplicadas a la Educación
 
 ## Competencias Personales
 
--	Sinceridad al expresar mis ideas y conceptos.
--	Compromiso hacia el hacer productivo por la vida.
--	Responsabilidad hacia los deberes adquiridos individual y profesionalmente.
--	Amor al conocimiento y respeto por la sabiduría.
--	Capacidad para aprender nuevas materias interdisciplinarmente con mi profesión.
+-	Capacidad de adaptación a nuecos entornos de aprendizaje.
+-	Compromiso hacia el saber y el hacer en mi proyecto de vida.
+-	Responsabilidad y proactividad.
 
-## Interpersonales *(siempre quiero…)
+## Competencias Interpersonales 
 
--	Poder aplicar mis conocimientos de una de las ramas de ciencias de la computación en la mayor cantidad de ambientes reales.
--	Hacer que multidisciplinariamente mi trabajo pueda ser aplicado para mejorar procesos de identificación, administración y comunicación de información.
-
-
-## Comunicación
-
--	Personalidad tranquila, mente abierta y pensamiento justo.
--	Capacidad fluida de expresión oral y escrita.
-
-####English:  Read (85%)  Write (70%) Speak (65%)
+-	Poder influir en la mejora de los procesos de enseñanza-aprendizaje en apropiación y manejo de Tics e investigación en mi región. 
 
 ## Experiencia Academica e Investigativa
 
-Actualmente investigando en el campo de las Interfaces Humano-Computador y sus aplicaciones a los ambientes educativos interactivos (Modelos Virtuales, realidad aumentada).
+•	Eventos científicos
 
-Configuración, personalización, publicación y uso de CMS (Content Manager Systems) para la organización de la información y proyección corporativa y empresarial.
+I Coloquio para la formación investigativa en Tics Aplicadas a la Educación,  realizado en la Universidad de Córdoba.  Noviembre 12 de 2003.                              
 
-Diseño de interfaces y mejoramiento de experiencia de aplicaciones basada en usuarios. (UX)
+II Coloquio para la formación investigativa en Tics Aplicadas a la Educación,  realizado en la Universidad de Córdoba. Montería, Octubre 20 de 2005.                              
 
-Aplicaciones y Modelos de comercio electrónico usando software libre. (Adaptación de sistemas de e-commerce)
+III coloquio para la formación investigativa en Tics Aplicadas a la Educación,  realizado en la Universidad de Córdoba.  Montería, Noviembre 1 de 2006.
 
-Adaptación y configuración de sistemas LMS (Learning Management Systems) orientados a la organización de información para la educación.
+III coloquio para la formación investigativa en Tics Aplicadas a la Educación,  realizado en la Universidad de Córdoba. Montería, Noviembre 19 de 2007.   
+ 
+III Encuentro Departamental de Semilleros de Investigación, realizado en la Universidad Elías Bechara Zainún. Montería, Abril 25 de 2008.
 
-Implementación de tecnologías y sistemas dinámicos para sistemas móviles. (Programación Android)
+X Encuentro Nacional y  V Internacional semilleros de Investigación, realizado en La Universidad EAFIT, los días 9, 10,11 y 12 de Octubre de 2008 en la Ciudad de Medellín. 
 
-Investigación en optimizaciones y mejoramientos al desempeño de las bases de datos (afinamiento de bases DB Oracle 8i).
+I Encuentro Departamental de Docentes de Tecnología e Informática, realizado en la Universidad de Córdoba. Montería, Noviembre 10 de 2007. 
 
-Administración de Sistemas de Correo electrónico basados en criptografía utilizando algoritmos de cifrado 3DES. (Visual Basic 4.0)
+•	Académicos 
 
-Sistemas de Información relacionales (Oracle  MySQL, Postgress)
+Tesis meritoria, MODELADO DEL ALUMNO EN JUEGOS EDUCATIVO GESTIONADOS CON AGENTES SOFTWARE  (JuEGAS) MULTIfUNCIONALES, EL CASO JuEGAS_ProVEAS. 2009
 
-Modelado 3D utilizando VRML y WebGL.
+Tercer Lugar 10 Premio Colombiano de Informática Educativa - Categoría Recursos Educativos Digitales,Red Iberoamericana De Informatica Educativa RIBIE-COL -Colombia - Julio de 2010
 
-
+Vinculada como formadora al Proyecto Colonia Convenio Córdoba 751. Corporación unificada Nacional (CUN)
 
 ## Experiencia Laboral
 
