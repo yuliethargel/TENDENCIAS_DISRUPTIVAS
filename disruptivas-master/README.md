@@ -38,19 +38,22 @@ Soy una persona proactiva, dinámica y me gusta trabajar en equipo.
 - Producción Audiovisual
 - Tecnologias de la Informácion y Comunicación Aplicadas a la Educación
 
-## Competencias Personales
+## Competencias 
 
 -	Capacidad de adaptación a nuevos entornos de aprendizaje.
 -	Compromiso hacia el saber y el hacer en mi proyecto de vida.
 -	Responsabilidad y proactividad.
-
-## Competencias Interpersonales 
-
 -	Poder influir en la mejora de los procesos de enseñanza-aprendizaje en apropiación y manejo de Tics e investigación en mi región. 
 
-## Experiencia Academica e Investigativa
+##Experiencia Academica e Investigativa
 
-•	Eventos científicos
+Tesis meritoria, MODELADO DEL ALUMNO EN JUEGOS EDUCATIVO GESTIONADOS CON AGENTES SOFTWARE  (JuEGAS) MULTIfUNCIONALES, EL CASO JuEGAS_ProVEAS. 2009
+
+Tercer Lugar 10 Premio Colombiano de Informática Educativa - Categoría Recursos Educativos Digitales,Red Iberoamericana De Informatica Educativa RIBIE-COL -Colombia - Julio de 2010
+
+Vinculada como formadora al Proyecto Colonia Convenio Córdoba 751. Corporación unificada Nacional (CUN)
+
+## Cursos, seminarios y otros.
 
 I Coloquio para la formación investigativa en Tics Aplicadas a la Educación,  realizado en la Universidad de Córdoba.  Noviembre 12 de 2003.                              
 
@@ -65,14 +68,6 @@ III Encuentro Departamental de Semilleros de Investigación, realizado en la Uni
 X Encuentro Nacional y  V Internacional semilleros de Investigación, realizado en La Universidad EAFIT, los días 9, 10,11 y 12 de Octubre de 2008 en la Ciudad de Medellín. 
 
 I Encuentro Departamental de Docentes de Tecnología e Informática, realizado en la Universidad de Córdoba. Montería, Noviembre 10 de 2007. 
-
-•	Académicos 
-
-Tesis meritoria, MODELADO DEL ALUMNO EN JUEGOS EDUCATIVO GESTIONADOS CON AGENTES SOFTWARE  (JuEGAS) MULTIfUNCIONALES, EL CASO JuEGAS_ProVEAS. 2009
-
-Tercer Lugar 10 Premio Colombiano de Informática Educativa - Categoría Recursos Educativos Digitales,Red Iberoamericana De Informatica Educativa RIBIE-COL -Colombia - Julio de 2010
-
-Vinculada como formadora al Proyecto Colonia Convenio Córdoba 751. Corporación unificada Nacional (CUN)
 
 ## Experiencia Laboral
 
