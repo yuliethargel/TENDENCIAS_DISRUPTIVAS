@@ -1,8 +1,8 @@
 # Curriculum Vitae
 Yulieth Paola Argel Martínez
-backgroundColor 
 
-aling:left (![](https://github.com/yuliethargel/TENDENCIAS_DISRUPTIVAS/blob/master/disruptivas-master/1.jpg))
+
+(![](https://github.com/yuliethargel/TENDENCIAS_DISRUPTIVAS/blob/master/disruptivas-master/1.jpg)
 
 ####Telefono Movil				3215052211
 ####e-mail				yargelm2015@gmail.com  - licyuliethargel@hotmail.com
