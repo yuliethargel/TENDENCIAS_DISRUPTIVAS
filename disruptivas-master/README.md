@@ -1,8 +1,8 @@
 # Curriculum Vitae
-Alfredo Alexis González Ordóñez
+Yulieth Paola Argel Martínez
 
 
-![](https://github.com/alfrexis/disruptivas/blob/master/1.jpg)
+![](https://github.com/yuliethargel/TENDENCIAS_DISRUPTIVAS/blob/master/disruptivas-master/1.jpg)
 
 ####Telefono Movil				3113288629
 ####e-mail				alfrexisgo@gmail.com  - alfrexis@hotmail.com
