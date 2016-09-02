@@ -40,7 +40,7 @@ Soy una persona proactiva, dinámica y me gusta trabajar en equipo.
 
 ## Competencias Personales
 
--	Capacidad de adaptación a nuecos entornos de aprendizaje.
+-	Capacidad de adaptación a nuevos entornos de aprendizaje.
 -	Compromiso hacia el saber y el hacer en mi proyecto de vida.
 -	Responsabilidad y proactividad.
 
